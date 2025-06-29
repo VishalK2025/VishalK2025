@@ -1,8 +1,6 @@
 # 👋 Hi, I'm **Vishal Khandelwal**! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
 
 📍 **New Delhi, India**  
-🔗 [LinkedIn](https://in.linkedin.com/in/vishal-khandelwal-4922482a2)
-
 ---
 
 ## 🧑‍💻 About Me
